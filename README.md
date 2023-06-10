@@ -2,7 +2,7 @@
 
 usuarios:
 user: Admin
-password: brandon 123
+password: brandon123
 
 user: cliente
 password: cliente123
